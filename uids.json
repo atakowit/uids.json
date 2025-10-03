@@ -1,5 +1,5 @@
 [
-  { "uid": "F1E892E8F5D073E953D656627B5513D2", "name": "Remap",  "status": "ปกติ" },
+  { "uid": "F1E892E8F5D073E953D656627B5513D2", "name": "Remap",  "status": "ไม่ปกติ" },
   { "uid": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "name": "User A", "status": "หมดอายุ" },
   { "uid": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB", "name": "Shop1", "status": "ถูกระงับ" }
 ]
