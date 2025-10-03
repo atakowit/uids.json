@@ -1,0 +1,5 @@
+[
+  { "uid": "9F3C7A82D93E6B1122A64E5B3F1A4D7C", "name": "Remap",  "status": "ปกติ" },
+  { "uid": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "name": "User A", "status": "หมดอายุ" },
+  { "uid": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB", "name": "Shop1", "status": "ถูกระงับ" }
+]
